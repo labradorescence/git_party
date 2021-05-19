@@ -7,8 +7,10 @@ Clone me!
 CD into git_party
 
 # step 3
-Checkout a branch "my-branch"
-Git Status
+Checkout a branch "my-branch" 
+"$git checkout -b "branch name""
+
+Git Status 
 Git Log
 
 # step 4
